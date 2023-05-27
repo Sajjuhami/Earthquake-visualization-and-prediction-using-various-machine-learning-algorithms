@@ -1,0 +1,7 @@
+echo "# Earthquake-visualization-and-prediction-using-various-machine-learning-algorithms" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Sajjuhami/Earthquake-visualization-and-prediction-using-various-machine-learning-algorithms.git
+git push -u origin main
